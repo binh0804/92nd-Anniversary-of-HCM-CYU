@@ -1,14 +1,19 @@
 
-var source = "./resource/piano.mp3"
-var audio = document.createElement("audio");
-//
-audio.autoplay = true;
-//
-audio.load()
-audio.addEventListener("load", function() { 
-    audio.play(); 
-}, true);
-audio.src = source;
+// var source = "./resource/piano.mp3"
+// var audio = document.createElement("audio");
+// //
+// audio.autoplay = true;
+// //
+// audio.load()
+// audio.addEventListener("load", function() { 
+//     audio.play(); 
+// }, true);
+// audio.src = source;
+
+
+// Auto play piano.mp3
+var audio = new Audio('./resource/piano.mp3');
+audio.play();
 
 
 var flip = document.getElementById("flipp");

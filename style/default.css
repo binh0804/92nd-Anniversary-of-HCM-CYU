@@ -97,8 +97,8 @@
         transition: all 0.5s ease-in;
 	}
 	#Path_4 {
-		fill: rgb(53, 28, 63);
-		stroke: rgba(112,112,112,1);
+		fill: rgba(23,44,170,1);
+		stroke: rgb(33, 106, 201);
 		stroke-width: 1px;
 		stroke-linejoin: miter;
 		stroke-linecap: butt;
@@ -127,7 +127,7 @@
 		font-family: Yu Gothic;
 		font-style: normal;
 		font-weight: normal;
-		font-size: 30px;
+		font-size: 33px;
 		color: rgba(112,112,112,1);
     }
     
@@ -184,7 +184,7 @@
 		font-style: normal;
 		font-weight: bold;
 		font-size: 30px;
-		color: rgba(91,65,232,1);
+		color: rgb(255, 6, 6);
 	}
 	
 	#Celebrating_Vietnamese_Teacher {
@@ -282,7 +282,7 @@
 
 	#Rectangle_1 {
 		opacity: 1;
-		fill: rgba(156,229,241,1);
+		fill: rgba(23,44,170,1);
 	}
 	.Rectangle_1 {
 		filter: drop-shadow(-15px 20px 6px rgba(0, 0, 0, 0.969));
