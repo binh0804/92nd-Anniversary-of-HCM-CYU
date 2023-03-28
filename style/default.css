@@ -29,7 +29,7 @@
         perspective:  1000px;
 	}
 	#Path_1 {
-		fill: rgba(130,188,246,1);
+		fill: rgb(130, 246, 173);
 		stroke: rgba(112,112,112,1);
 		stroke-width: 1px;
 		stroke-linejoin: miter;
@@ -38,7 +38,7 @@
 		shape-rendering: auto;
 	}
 	.Path_1 {
-		filter: drop-shadow(0px 25px 6px rgba(147, 213, 230, 0.729));
+		filter: drop-shadow(0px 25px 6px rgb(130, 246, 173));
 		overflow: visible;
 		position: absolute;
 		width: 2000.484px;
@@ -187,7 +187,7 @@
 		color: rgb(255, 6, 6);
 	}
 	
-	#Celebrating_Vietnamese_Teacher {
+	#Celebrating_Youth {
 		left: 40px;
 		z-index: 4;
 		top: 250px;

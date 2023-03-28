@@ -1,4 +1,4 @@
- /* from DE.ts */
+
  @import url('https://fonts.googleapis.com/css2?family=Kalam&display=swap');
 
  #first {
@@ -83,7 +83,7 @@
  }
 
  .sticky-content {
-     background: linear-gradient(180deg, rgba(187, 235, 255, 1) 0%, rgba(187, 235, 255, 1) 12%, rgba(170, 220, 241, 1) 75%, rgba(195, 229, 244, 1) 100%);
+     background: linear-gradient(180deg, rgb(253, 237, 95) 0%, rgb(253, 237, 95) 12%, rgb(253, 237, 95) 75%, rgb(253, 237, 95) 100%);
      width: 100%;
      height: 100%;
      display: flex;
